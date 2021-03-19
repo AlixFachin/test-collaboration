@@ -1,0 +1,20 @@
+html {
+    background: url("florian-olivo-unsplash.jpg") center no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width:90%;
+}
+
+#mainContainer {
+    background: rgba(255,255,255,0.7);
+    box-shadow: 0 0 0 10px rgba(0.0,0.0,0.0,0.15);
+    
+}
